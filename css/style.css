@@ -16,7 +16,7 @@ body{
 .left {
     width: 35vw;
     height: 15vh;
-    background: url(img/fblogo.jpg) no-repeat;
+    background: url(/img/fblogo.jpg) no-repeat;
     background-size: contain;
     margin-top: 30vh;
     margin-left: 10vw;
