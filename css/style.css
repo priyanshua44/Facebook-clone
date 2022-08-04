@@ -14,12 +14,17 @@ body{
 }
 
 .left {
-    width: 35vw;
+    width: 32vw;
     height: 15vh;
-    background: url(/img/fblogo.jpg) no-repeat;
-    background-size: contain;
+    /* background: url(/img/fblogo.jpg) no-repeat;
+    background-size: contain; */
     margin-top: 30vh;
     margin-left: 10vw;
+}
+
+.left img{
+    width: 25vw;
+    height: 15vh;
 }
 
 .head {
