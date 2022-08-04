@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(235, 235, 235);
+}
+.container {
+    background-color: rgb(235, 235, 235);
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+}
+
+.left {
+    width: 35vw;
+    height: 15vh;
+    background: url(img/fblogo.jpg) no-repeat;
+    background-size: contain;
+    margin-top: 30vh;
+    margin-left: 10vw;
+}
+
+.head {
+    font-size: 30px;
+    font-weight: 300;
+    margin-left: 11vw;
+}
+
+.second{
+    margin-top: 25vh;
+}
+
+.box{
+    width: 30vw;
+    height: 60vh;
+    background-color: white;
+    display: grid;
+    justify-content: center;
+}
+
+.email input{
+    width: 27vw;
+    height: 9vh;
+    border: solid #cbcbcb 1px;
+    font-size: large;
+}
+
+
+.password input{
+    width: 27vw;
+    height: 9vh;
+    border: solid #cbcbcb 1px;
+    font-size: large;
+}
+
+.login button{
+    background-color: #1877f2;
+    width: 27vw;
+    height: 7vh;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.forgot{
+    display: grid;
+    justify-content: center;
+}
+
+.forgot a{
+    color: #1877f2;
+    text-decoration: none;
+}
+
+.create{
+    display: grid;
+    justify-content: center;
+}
+
+.create button{
+    color: white;
+    background-color: rgb(25, 194, 25);
+    width: 17vw;
+    height: 7vh;
+    font-size: large;
+    font-weight: bold;
+}
+
+.page{
+    margin-top: 4vh;
+    margin-left: 3vw;
+}
