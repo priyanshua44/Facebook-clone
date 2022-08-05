@@ -99,3 +99,12 @@ body{
     margin-top: 4vh;
     margin-left: 3vw;
 }
+
+
+.email ::placeholder{
+    color: #b5b3b3;
+}
+
+.password ::placeholder{
+    color: #b5b3b3;
+}
