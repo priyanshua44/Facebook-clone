@@ -21,7 +21,7 @@ Facebook page clone made using basics of html and css. A beginner friendly html 
 
 ## Live link for the project
 
-https://priyanshua44.github.io/Facebook-clone/
+https://facebookclone-pj.netlify.app/
 
 ## Tech Stack Used
 
